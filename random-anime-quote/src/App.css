@@ -1,0 +1,33 @@
+.App {
+  background-color: rgba(161, 255, 219, 0.527);
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding: 16.05vw;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(255, 254, 208);
+  margin: auto;
+  padding: 2vw;
+  width: 50vw;
+  height: 36vh;
+  border-radius: 20px;
+  box-shadow: 0px 0px 20px black;
+}
+.quote-section{
+  margin: auto;
+}
+.btn{
+  margin: auto;
+  width: 7vw;
+  height: 3vh;
+  border-radius: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.219);
+  cursor: pointer;
+}
